@@ -7,6 +7,20 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+/API
+/MNIST_LSTM
+/MNIST_data
+/MNIST_train
+/MNIST_CNN_train
+/cifar10_data
+/cifar10_CNN_train
+/images&Text
+/jiyan
+/MaskWearing
+/*.py
+yolo_databases
+*.jpg
+*.txt
 .Python
 build/
 develop-eggs/

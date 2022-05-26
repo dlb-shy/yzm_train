@@ -1,0 +1,5 @@
+train: /Users/dinglibo/sky/py_project/yzm_train/ClickData/train/images
+val: /Users/dinglibo/sky/py_project/yzm_train/ClickData/valid/images
+
+nc: 1
+names: ['ch']

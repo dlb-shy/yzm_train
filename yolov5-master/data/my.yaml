@@ -1,0 +1,5 @@
+train: /Users/dinglibo/sky/py_project/yzm_train/yolo_databases/slide/Annotations/train.txt
+val: /Users/dinglibo/sky/py_project/yzm_train/yolo_databases/slide/Annotations/val.txt
+
+nc: 1
+names: ['0']
